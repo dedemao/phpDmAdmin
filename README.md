@@ -61,6 +61,26 @@ Notes:
 - Protect the directory with authentication or IP restrictions.
 - Disable it by setting `'enabled' => false` in `config.php` when not in use.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><b>Login Interface</b><br/><img src="./images/login.png" alt="Login Interface"></td>
+  </tr>
+  <tr>
+    <td><b>Home Page</b><br/><img src="./images/index.png" alt="Home Page"></td>
+  </tr>
+  <tr>
+    <td><b>Table Preview</b><br/><img src="./images/table_view.png" alt="Table Preview"></td>
+  </tr>
+  <tr>
+    <td><b>Edit Field</b><br/><img src="./images/edit_field.png" alt="Edit Field"></td>
+  </tr>
+  <tr>
+    <td><b>Filter Column</b><br/><img src="./images/filter_column.png" alt="Filter Column"></td>
+  </tr>
+</table>
+
 ## License
 
 MIT License. See `LICENSE` if provided, otherwise apply MIT to this repository.
