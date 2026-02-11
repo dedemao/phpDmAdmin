@@ -57,6 +57,26 @@ $DM_CONFIG = [
 - 建议对目录加认证或 IP 限制。
 - 不使用时可在 `config.php` 中设置 `'enabled' => false` 关闭。
 
+## 界面展示
+
+<table>
+  <tr>
+    <td><b>登录界面</b><br/><img src="./images/login.png" alt="登录界面"></td>
+  </tr>
+  <tr>
+    <td><b>首页</b><br/><img src="./images/index.png" alt="首页"></td>
+  </tr>
+  <tr>
+    <td><b>数据表预览</b><br/><img src="./images/table_view.png" alt="数据表预览"></td>
+  </tr>
+  <tr>
+    <td><b>编辑字段</b><br/><img src="./images/edit_field.png" alt="编辑字段"></td>
+  </tr>
+  <tr>
+    <td><b>筛选字段</b><br/><img src="./images/filter_column.png" alt="筛选字段"></td>
+  </tr>
+</table>
+
 ## 许可协议
 
 MIT License。详见 `LICENSE`。
