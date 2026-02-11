@@ -2,7 +2,8 @@
 
 A lightweight, single-file PHP web UI for DaMeng (DM8) databases. It provides quick browsing, ad-hoc SQL, and inline editing without additional dependencies.
 
-Chinese documentation: `README_zh.md`
+<p align="center">
+| <b>English</b> | <a href="./README_zh"><b>简体中文</b></a>
 
 ## Features
 
